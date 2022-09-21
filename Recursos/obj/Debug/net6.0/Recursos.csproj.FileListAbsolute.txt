@@ -1,0 +1,14 @@
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\bin\Debug\net6.0\Recursos.deps.json
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\bin\Debug\net6.0\Recursos.dll
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\bin\Debug\net6.0\Recursos.pdb
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\obj\Debug\net6.0\Recursos.csproj.AssemblyReference.cache
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\obj\Debug\net6.0\Recursos.Mensagens.resources
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\obj\Debug\net6.0\Recursos.csproj.GenerateResource.cache
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\obj\Debug\net6.0\Recursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\obj\Debug\net6.0\Recursos.AssemblyInfoInputs.cache
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\obj\Debug\net6.0\Recursos.AssemblyInfo.cs
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\obj\Debug\net6.0\Recursos.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\obj\Debug\net6.0\Recursos.dll
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\obj\Debug\net6.0\refint\Recursos.dll
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\obj\Debug\net6.0\Recursos.pdb
+C:\Users\Pablo\Documents\GitHub\ProjetoBackEnd_V6\ProjetoBackEnd_V6\Recursos\obj\Debug\net6.0\ref\Recursos.dll
