@@ -9,7 +9,7 @@ namespace ProjetoBackEnd_V6.Controllers
     [Route("api/[controller]")]
     public class TarefaController : ControllerBase
     {
-        private ITarefaService _tarefaService;
+        private readonly ITarefaService _tarefaService;
 
         public TarefaController(ITarefaService tarefaService)
         {
